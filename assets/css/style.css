@@ -5,9 +5,10 @@
 :root{
     --primary-font: 'Inter', sans-serif;
     --heading-font: 'Macondo', cursive;
-    --secondary-color:#aa9581;
-    --highlight-color:#416a8e;
-    --lighthighlight-color:#7a9fc2;
+    --primary-color: #3a2620; /* dark brown */
+     --secondary-color: #aa9581; /* light brown */
+    --highlight-color: #416a8e; /* blue */
+    --highlight-color-light: #7a9fc2; /* light blue */
 }
 
 
@@ -23,8 +24,18 @@ h1 {
     color: var(--highlight-color);
 }
 
-/* grid visualisation CSS for testing */
+#navbar {
+    background-color: var(--primary-color);
+}
 
+#navbar .logo {
+    width: 30px;
+}
+
+
+
+/* grid visualisation CSS for testing */
+/* 
 .container,
 .row {
     border: 2px solid black;
@@ -33,4 +44,4 @@ h1 {
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-} 
+}  */
