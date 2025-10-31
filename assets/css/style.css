@@ -16,6 +16,7 @@
 
 body {
     font-family: var(--primary-font);
+    padding-top: 57.15px; /*Pushes the top due to the top fixed feature*/
 }
 
 h1,
