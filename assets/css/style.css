@@ -101,6 +101,15 @@ h2 {
 #fav-games .card {
     border: none;
 }
+/* Discount */
+.discount{
+    background-color: var(--highlight-color);
+    color:white;
+    font-weight: 600;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
 
 /* Footer / contact */
 
@@ -180,4 +189,5 @@ h2 {
     #services .card-body {
         min-height: 195px;
     }
+   
 }
