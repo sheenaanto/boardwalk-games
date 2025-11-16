@@ -19,6 +19,7 @@ Boardwalk Games is your ultimate gaming retreat, designed for casual gamers, ent
 ## About
 
 Boardwalk Games is a modern, responsive website for a board game café that offers:
+
 - A vast library of board games available for rent or purchase
 - Event hosting and gaming experiences
 - Online booking system for reservations
@@ -27,6 +28,7 @@ Boardwalk Games is a modern, responsive website for a board game café that offe
 ## Features
 
 ### Core Features
+
 - **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
 - **Interactive Navigation**: Fixed navigation bar with smooth scrolling and mobile-friendly hamburger menu
 - **Image Carousels**: Dynamic image sliders showcasing games and venue atmosphere
@@ -35,6 +37,7 @@ Boardwalk Games is a modern, responsive website for a board game café that offe
 - **Contact Information**: Easy access to location, contact details, and social media links
 
 ### Technical Features
+
 - Bootstrap 5 framework for responsive grid and components
 - Custom CSS with CSS variables for consistent theming
 - Accessible HTML5 semantic markup
@@ -53,6 +56,7 @@ Boardwalk Games is a modern, responsive website for a board game café that offe
 ## Pages
 
 ### 1. Home Page (`index.html`)
+
 - Hero carousel with venue images
 - Services section highlighting key offerings
 - Events information
@@ -61,12 +65,14 @@ Boardwalk Games is a modern, responsive website for a board game café that offe
 - Social media integration
 
 ### 2. Game Library (`game-library.html`)
+
 - Comprehensive game catalog
 - Game categorization and display
 - Visual game cards with information
 - Call-to-action for booking
 
 ### 3. Booking Page (`booking.html`)
+
 - Reservation enquiry form
 - Date and time selection
 - Group size input
@@ -74,6 +80,7 @@ Boardwalk Games is a modern, responsive website for a board game café that offe
 - Form submission with validation
 
 ### 4. Success Page (`success.html`)
+
 - Booking confirmation message
 - Next steps information
 - Navigation back to main site
@@ -126,11 +133,13 @@ start index.html
 ## Usage
 
 ### Local Development
+
 - Simply open any HTML file in a modern web browser
 - No server required for basic functionality
 - For form submission to work, integrate with a backend service or form handler
 
 ### Navigation
+
 - Use the navigation bar to move between pages
 - Click "Book now" button to access the booking form
 - Browse the game library to explore available games
@@ -139,16 +148,19 @@ start index.html
 ## Design
 
 ### Color Scheme
+
 - **Primary Color**: `#3a2620` (Dark Brown) - Main text and headings
 - **Secondary Color**: `#aa9581` (Light Brown) - Accents
 - **Highlight Color**: `#416a8e` (Blue) - Interactive elements
 - **Highlight Color Light**: `#7a9fc2` (Light Blue) - Hover states
 
 ### Typography
+
 - **Primary Font**: Inter (sans-serif) - Body text
 - **Secondary Font**: Macondo (cursive) - Headings and branding
 
 ### Layout
+
 - Mobile-first responsive design
 - Bootstrap grid system
 - Flexbox for component alignment
@@ -157,6 +169,7 @@ start index.html
 ## Browser Compatibility
 
 The website is compatible with:
+
 - Google Chrome (latest)
 - Mozilla Firefox (latest)
 - Safari (latest)
@@ -166,6 +179,7 @@ The website is compatible with:
 ## Future Enhancements
 
 Potential features for future development:
+
 - Backend integration for booking system
 - User accounts and login functionality
 - Online payment integration
@@ -178,17 +192,21 @@ Potential features for future development:
 ## Credits
 
 ### Content
+
 - Website content created for Boardwalk Games
 
 ### Media
+
 - Images stored in `assets/images/` directory
 - Favicon generated using [Favicon.io](https://favicon.io)
 
 ### Frameworks & Libraries
+
 - [Bootstrap 5.3](https://getbootstrap.com/) - CSS Framework
 - [Google Fonts](https://fonts.google.com/) - Typography
 
 ### Tools
+
 - [Autoprefixer](https://autoprefixer.github.io/) - CSS vendor prefixing
 - Visual Studio Code - Development environment
 
